@@ -87,3 +87,7 @@ int main() {
 
     return 0; // Programm erfolgreich beenden
 }
+
+//Fazit
+
+//Das Projekt zeigt, wie grundlegende Programmierkonzepte wie Dateioperationen, Datenstrukturen und Schleifen kombiniert werden können, um ein praktisches Problem zu lösen. Das Programm erfüllt die Anforderungen der Aufgabenstellung und liefert korrekte Ergebnisse.
